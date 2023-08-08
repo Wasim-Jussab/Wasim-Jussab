@@ -9,7 +9,7 @@ Hello there! I'm Wasim, a passionate and enthusiastic developer with a keen inte
 
 - Python
 - Data Analysis
-- Data Visualisation (Matplotlib, Seaborn, [Tableau](https://public.tableau.com/app/profile/wasim.ahmed.shajid.jussab))
+- Data Visualisation ([My Tableau public profile](https://public.tableau.com/app/profile/wasim.ahmed.shajid.jussab))
 - Machine Learning
 - Natural Language Processing
 - SQL
